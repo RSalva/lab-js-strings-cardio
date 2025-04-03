@@ -20,6 +20,8 @@ console.log(charIterationOne);
 const string2 = "ABCDEFGHJKLO";
 
 // Your code here...
+const iterationTwoWord = string2.charAt(2) + string2.charAt(11) +  string2.charAt(11) + string2.charAt(10);
+console.log(iterationTwoWord);
 
 
 
