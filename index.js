@@ -50,6 +50,11 @@ console.log(iterationThreeWord);
 const fruit = "banana apple mango orange lemon kiwi watermelon grapes pear pineapple";
 
 // Your code here...
+const indexStart = fruit.indexOf("orange");
+const indexEnd = 6;
+const favouriteFruit = fruit.slice(indexStart, indexStart+indexEnd);
+console.log(favouriteFruit);
+
 
 
 
