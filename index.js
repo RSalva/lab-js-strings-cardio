@@ -103,7 +103,11 @@ const string4 = "zEAWrTC9EgtxmK9w1";
 
 // a) Print the string length
 // Your code here ...
+const stringLength = string4.length;
+console.log(stringLength);
 
 
 // b) Print the last character in the string
 // Your code here ...
+const lastCharacter = string4.charAt(stringLength - 1);
+console.log(lastCharacter);
