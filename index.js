@@ -35,6 +35,8 @@ console.log(iterationTwoWord);
 const string3 = "Na";
 
 // Your code here...
+const iterationThreeWord = string3.repeat(4) + " Batman!";
+console.log(iterationThreeWord);
 
 
 
