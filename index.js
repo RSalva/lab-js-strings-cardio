@@ -6,6 +6,8 @@
 const string1 = "My favorite dessert is jello";
 
 // Your code here...
+const charIterationOne = string1.indexOf("j");
+console.log(charIterationOne);
 
 
 
@@ -22,6 +24,7 @@ const string2 = "ABCDEFGHJKLO";
 
 
 
+
 /*****************************************************
     Iteration 3 | Repeat a String and Concatenate
 *****************************************************/
@@ -34,6 +37,7 @@ const string3 = "Na";
 
 
 
+
 /*******************************************
        Iteration 4 | Fruite Slice
 *******************************************/
@@ -42,6 +46,7 @@ const string3 = "Na";
 const fruit = "banana apple mango orange lemon kiwi watermelon grapes pear pineapple";
 
 // Your code here...
+
 
 
 
